@@ -46,6 +46,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
+  color: #fed136;
   font-size: 16px;
   font-weight: 400;
   font-style: italic;
@@ -309,6 +310,7 @@ header.masthead .intro-text .intro-heading {
 
 .portfolio-modal {
   padding-right: 0px !important;
+  background-color: #0e658c;
 }
 
 .portfolio-modal .modal-dialog {
@@ -658,6 +660,7 @@ footer {
 }
 
 footer span.copyright {
+  color: #0e658c;
   font-size: 90%;
   line-height: 40px;
   text-transform: none;
