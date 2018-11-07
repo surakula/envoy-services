@@ -2,8 +2,7 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-color:
-  background-image: url('../img/envoy-header-bg.png');
+  background-image: url('../img/envoy-header-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -23,7 +22,7 @@ header.masthead {
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 25px;
-      @include heading-font;
+      @include heading-font1;
     }
   }
 }
@@ -44,7 +43,7 @@ header.masthead {
         font-weight: 700;
         line-height: 75px;
         margin-bottom: 50px;
-        @include heading-font;
+        @include heading-font1;
       }
     }
   }
